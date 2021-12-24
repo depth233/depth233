@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @depth233
 - 👀 I’m interested in computer graphics.
 - 🌱 I’m currently learning algorithm.
-- 📫 How to reach me on mail depth233@163.com.
+- 📫 You can reach me on mail depth233@163.com.
 
 <!---
 depth233/depth233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
